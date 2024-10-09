@@ -1,0 +1,101 @@
+activity_id,student_id,activity_name,participation_level,hours_per_week,
+1,2021001,Football,High,5,
+2,2021002,Debate Club,Medium,3,
+3,2021003,Music Band,Low,2,
+4,2021004,Drama Club,Medium,4,
+5,2021005,Art Club,High,3,
+6,2021006,Science Club,Medium,2,
+7,2021007,Chess Club,High,2,
+8,2021008,Gardening Club,Low,1,
+9,2021009,Coding Club,Medium,2,
+10,2021010,Basketball,High,5,
+11,2021011,Volleyball,Medium,3,
+12,2021012,Running Club,High,4,
+13,2021013,Photography Club,Low,2,
+14,2021014,Environment Club,Medium,2,
+15,2021015,Cooking Club,High,3,
+16,2021016,Creative Writing Club,Medium,2,
+17,2021017,Robotics Club,High,4,
+18,2021018,Cultural Club,Medium,2,
+19,2021019,Peer Mentoring,High,3,
+20,2021020,First Aid Training,Medium,2,
+21,2021021,Fashion Club,Low,1,
+22,2021022,Community Service,High,3,
+23,2021023,Film Club,Medium,2,
+24,2021024,Poetry Club,Low,1,
+25,2021025,Hiking Club,Medium,2,
+26,2021026,Technology Club,High,4,
+27,2021027,Dance Club,Medium,3,
+28,2021028,Language Club,High,2,
+29,2021029,History Club,Medium,2,
+30,2021030,Math Club,High,3,
+31,2021031,Fitness Club,Medium,2,
+32,2021032,Debate Team,High,3,
+33,2021033,Student Council,Medium,4,
+34,2021034,Literary Society,Low,1,
+35,2021035,Environmental Awareness,Medium,2,
+36,2021036,Social Justice Club,High,3,
+37,2021037,Entrepreneurship Club,Medium,2,
+38,2021038,Public Speaking Club,High,3,
+39,2021039,Wellness Club,Medium,2,
+40,2021040,Mentorship Program,High,4,
+41,2021041,Coding Bootcamp,Medium,3,
+42,2021042,Nature Explorers,Low,1,
+43,2021043,Youth Leadership,High,3,
+44,2021044,Art Therapy,Medium,2,
+45,2021045,Public Health Club,High,3,
+46,2021046,Sports Leadership,Medium,2,
+47,2021047,Social Media Club,High,3,
+48,2021048,Book Club,Medium,2,
+49,2021049,Research Club,High,4,
+50,2021050,Innovation Hub,Medium,3,
+51,2021051,Debate Club,High,Weekly,2 hours
+52,2021052,Soccer Team,Medium,Weekly,3 hours
+53,2021053,Drama Club,High,Weekly,2 hours
+54,2021054,Science Club,Low,Monthly,1 hour
+55,2021055,Art Club,Medium,Weekly,2 hours
+56,2021056,Choir,High,Weekly,2 hours
+57,2021057,Robotics Club,Medium,Bi-weekly,2 hours
+58,2021058,Basketball Team,High,Weekly,3 hours
+59,2021059,Gardening Club,Low,Monthly,1 hour
+60,2021060,Coding Club,Medium,Weekly,2 hours
+61,2021061,Chess Club,High,Weekly,2 hours
+62,2021062,Music Band,Medium,Weekly,2 hours
+63,2021063,Environmental Club,Low,Monthly,1 hour
+64,2021064,Yearbook Committee,Medium,Monthly,2 hours
+65,2021065,Film Club,High,Monthly,2 hours
+66,2021066,Poetry Club,Medium,Monthly,1 hour
+67,2021067,Dance Club,High,Weekly,2 hours
+68,2021068,Community Service,Medium,Monthly,3 hours
+69,2021069,History Club,Low,Monthly,1 hour
+70,2021070,Cooking Club,Medium,Bi-weekly,2 hours
+71,2021071,Photography Club,High,Weekly,2 hours
+72,2021072,Debate Club,Medium,Weekly,2 hours
+73,2021073,Soccer Team,High,Weekly,3 hours
+74,2021074,Drama Club,High,Weekly,2 hours
+75,2021075,Science Club,Low,Monthly,1 hour
+76,2021076,Art Club,Medium,Weekly,2 hours
+77,2021077,Choir,High,Weekly,2 hours
+78,2021078,Robotics Club,Medium,Bi-weekly,2 hours
+79,2021079,Basketball Team,High,Weekly,3 hours
+80,2021080,Gardening Club,Low,Monthly,1 hour
+81,2021081,Coding Club,Medium,Weekly,2 hours
+82,2021082,Chess Club,High,Weekly,2 hours
+83,2021083,Music Band,Medium,Weekly,2 hours
+84,2021084,Environmental Club,Low,Monthly,1 hour
+85,2021085,Yearbook Committee,Medium,Monthly,2 hours
+86,2021086,Film Club,High,Monthly,2 hours
+87,2021087,Poetry Club,Medium,Monthly,1 hour
+88,2021088,Dance Club,High,Weekly,2 hours
+89,2021089,Community Service,Medium,Monthly,3 hours
+90,2021090,History Club,Low,Monthly,1 hour
+91,2021091,Cooking Club,Medium,Bi-weekly,2 hours
+92,2021092,Photography Club,High,Weekly,2 hours
+93,2021093,Debate Club,Medium,Weekly,2 hours
+94,2021094,Soccer Team,High,Weekly,3 hours
+95,2021095,Drama Club,High,Weekly,2 hours
+96,2021096,Science Club,Low,Monthly,1 hour
+97,2021097,Art Club,Medium,Weekly,2 hours
+98,2021098,Choir,High,Weekly,2 hours
+99,2021099,Robotics Club,Medium,Bi-weekly,2 hours
+100,2021100,Basketball Team,High,Weekly,3 hours

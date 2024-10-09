@@ -1,0 +1,11 @@
+teacher_id,subject,teaching_method,student_feedback_rating,hours_per_week
+1,Mathematics,Interactive,4.5,20
+2,English,Lecture,3.8,15
+3,Science,Hands-on,4.2,10
+4,History,Discussion,4,12
+5,Geography,Lecture,3.5,15
+6,Physical Education,Practical,4.7,10
+7,Arts,Creative Projects,4.1,8
+8,Music,Interactive,4.3,6
+9,Computer Science,Hands-on,4.6,10
+10,Foreign Language,Immersive,4.4,12

@@ -1,0 +1,102 @@
+parent_id,student_id,parent_name,relationship,income_level,income (monthly),education_level,occupation,activity_id,activity_name,participation_level,hours_per_week,material_id,material_type,access_level,frequency_of_use
+1,2021001,Emeka Okafor,Father,Upper Class,5000000,University,Engineer,1,Football,High,5,1.0,Textbook,High,Daily
+2,2021002,Amina Bello,Mother,Lower Upper Class,2500000,Secondary,Trader,2,Debate Club,Medium,3,2.0,Online Resource,Medium,Weekly
+3,2021003,Thandi Molefe,Mother,Middle Class,800000,University,Teacher,3,Music Band,Low,2,3.0,Library Access,Low,Monthly
+4,2021004,Ibrahim Abubakar,Father,Lower Class,100000,Primary,Farmer,4,Drama Club,Medium,4,4.0,Textbook,High,Daily
+5,2021005,Akosua Mensah,Mother,Upper Class,6000000,University,Doctor,5,Art Club,High,3,5.0,Online Resource,Medium,Weekly
+6,2021006,Zainab Ahmed,Mother,Poor,40000,Secondary,Vendor,6,Science Club,Medium,2,6.0,Library Access,Low,Monthly
+7,2021007,Kwame Nkrumah,Father,Middle Class,900000,University,Engineer,7,Chess Club,High,2,7.0,Textbook,High,Daily
+8,2021008,Amina Diop,Mother,Lower Upper Class,3000000,Secondary,Nurse,8,Gardening Club,Low,1,8.0,Online Resource,Medium,Weekly
+9,2021009,Samuel Otieno,Father,Poor,70000,Primary,Mechanic,9,Coding Club,Medium,2,9.0,Library Access,Low,Monthly
+10,2021010,Lara Okeke,Mother,Upper Class,4500000,University,Lawyer,10,Basketball,High,5,10.0,Textbook,High,Daily
+11,2021011,Idris Yusuf,Father,Middle Class,1000000,University,Teacher,11,Volleyball,Medium,3,11.0,Online Resource,Medium,Weekly
+12,2021012,Nia Mwangi,Mother,Lower Class,150000,Secondary,Trader,12,Running Club,High,4,12.0,Library Access,Low,Monthly
+13,2021013,Ahmed Diallo,Father,Poor,90000,Primary,Farmer,13,Photography Club,Low,2,13.0,Textbook,High,Daily
+14,2021014,Mariam Kamara,Mother,Lower Upper Class,2000000,Secondary,Trader,14,Environment Club,Medium,2,14.0,Online Resource,Medium,Weekly
+15,2021015,Tunde Adeyemi,Father,Middle Class,1200000,University,Engineer,15,Cooking Club,High,3,15.0,Library Access,Low,Monthly
+16,2021016,Ifeoma Nwankwo,Mother,Upper Class,5500000,University,Doctor,16,Creative Writing Club,Medium,2,16.0,Textbook,High,Daily
+17,2021017,Malik Juma,Father,Poor,30000,Primary,Farmer,17,Robotics Club,High,4,17.0,Online Resource,Medium,Weekly
+18,2021018,Laila Hassan,Mother,Lower Upper Class,3500000,Secondary,Nurse,18,Cultural Club,Medium,2,18.0,Library Access,Low,Monthly
+19,2021019,Dineo Khumalo,Father,Middle Class,1000000,University,Teacher,19,Peer Mentoring,High,3,19.0,Textbook,High,Daily
+20,2021020,Kofi Boateng,Mother,Poor,50000,Primary,Mechanic,20,First Aid Training,Medium,2,20.0,Online Resource,Medium,Weekly
+21,2021021,Yara Abdi,Father,Upper Class,6500000,University,Lawyer,21,Fashion Club,Low,1,21.0,Library Access,Low,Monthly
+22,2021022,Thabo Sibanda,Mother,Lower Class,120000,Secondary,Trader,22,Community Service,High,3,22.0,Textbook,High,Daily
+22,2021022,Thabo Sibanda,Mother,Lower Class,120000,Secondary,Trader,22,Community Service,High,3,23.0,Textbook,High,Daily
+23,2021023,Ayo Ogunleye,Father,Poor,80000,Primary,Farmer,23,Film Club,Medium,2,24.0,Online Resource,Medium,Weekly
+24,2021024,Jamal Abubakar,Mother,Lower Upper Class,2800000,Secondary,Nurse,24,Poetry Club,Low,1,25.0,Library Access,Low,Monthly
+25,2021025,Sade Olawale,Father,Middle Class,1500000,University,Engineer,25,Hiking Club,Medium,2,26.0,Textbook,High,Daily
+26,2021026,Zuri Mwenda,Mother,Upper Class,5200000,University,Doctor,26,Technology Club,High,4,27.0,Online Resource,Medium,Weekly
+27,2021027,Tariq Ndung'u,Father,Poor,20000,Primary,Farmer,27,Dance Club,Medium,3,28.0,Library Access,Low,Monthly
+28,2021028,Fatou Sow,Mother,Lower Upper Class,3200000,Secondary,Trader,28,Language Club,High,2,29.0,Textbook,High,Daily
+29,2021029,Juma Muriuki,Father,Middle Class,1000000,University,Teacher,29,History Club,Medium,2,30.0,Online Resource,Medium,Weekly
+30,2021030,Amina Juma,Mother,Poor,60000,Primary,Mechanic,30,Math Club,High,3,31.0,Library Access,Low,Monthly
+31,2021031,Kwaku Agyeman,Father,Upper Class,6000000,University,Lawyer,31,Fitness Club,Medium,2,32.0,Textbook,High,Daily
+32,2021032,Lindiwe Mthembu,Mother,Lower Class,150000,Secondary,Trader,32,Debate Team,High,3,33.0,Online Resource,Medium,Weekly
+33,2021033,Sefakor Akoto,Father,Poor,90000,Primary,Farmer,33,Student Council,Medium,4,34.0,Library Access,Low,Monthly
+34,2021034,Obinna Ibe,Mother,Middle Class,1000000,University,Engineer,34,Literary Society,Low,1,35.0,Textbook,High,Daily
+35,2021035,Zainab Bello,Father,Lower Upper Class,2200000,Secondary,Nurse,35,Environmental Awareness,Medium,2,36.0,Online Resource,Medium,Weekly
+36,2021036,Femi Ojo,Mother,Poor,30000,Primary,Mechanic,36,Social Justice Club,High,3,37.0,Library Access,Low,Monthly
+37,2021037,Muna Alhassan,Father,Upper Class,5800000,University,Doctor,37,Entrepreneurship Club,Medium,2,38.0,Textbook,High,Daily
+38,2021038,Ayo Ogunjobi,Mother,Lower Class,100000,Secondary,Trader,38,Public Speaking Club,High,3,39.0,Online Resource,Medium,Weekly
+39,2021039,Chika Nwosu,Father,Middle Class,900000,University,Teacher,39,Wellness Club,Medium,2,40.0,Library Access,Low,Monthly
+40,2021040,Imani Karanja,Mother,Poor,40000,Primary,Farmer,40,Mentorship Program,High,4,41.0,Textbook,High,Daily
+41,2021041,Kofi Asante,Father,Upper Class,7000000,University,Lawyer,41,Coding Bootcamp,Medium,3,42.0,Online Resource,Medium,Weekly
+42,2021042,Zuri Sefu,Mother,Lower Upper Class,3800000,Secondary,Nurse,42,Nature Explorers,Low,1,43.0,Library Access,Low,Monthly
+43,2021043,Nia Chikondi,Father,Middle Class,1500000,University,Teacher,43,Youth Leadership,High,3,44.0,Textbook,High,Daily
+44,2021044,Malik Chikwe,Mother,Poor,20000,Primary,Mechanic,44,Art Therapy,Medium,2,45.0,Online Resource,Medium,Weekly
+45,2021045,Tunde Adebayo,Father,Upper Class,6500000,University,Doctor,45,Public Health Club,High,3,46.0,Library Access,Low,Monthly
+46,2021046,Ifeoma Okwudili,Mother,Lower Class,150000,Secondary,Trader,46,Sports Leadership,Medium,2,47.0,Textbook,High,Daily
+47,2021047,Ayo Akinyemi,Father,Poor,80000,Primary,Farmer,47,Social Media Club,High,3,48.0,Online Resource,Medium,Weekly
+48,2021048,Fatima Khamis,Mother,Middle Class,1000000,University,Engineer,48,Book Club,Medium,2,49.0,Library Access,Low,Monthly
+49,2021049,Tumi Nkosi,Father,Upper Class,5500000,University,Lawyer,49,Research Club,High,4,50.0,Textbook,High,Daily
+50,2021050,Kanyinsola Adebayo,Mother,Poor,50000,Primary,Farmer,50,Innovation Hub,Medium,3,,,,
+51,2021051,Chijioke Ibe,Father,Middle Class,700000,University,IT Specialist,51,Debate Club,High,Weekly,,,,
+52,2021052,Amani Mwanga,Mother,Lower Upper Class,1200000,Secondary,Nurse,52,Soccer Team,Medium,Weekly,,,,
+53,2021053,Thandi Ndlovu,Mother,Upper Class,4500000,University,Lawyer,53,Drama Club,High,Weekly,,,,
+54,2021054,Emeka Nwosu,Father,Poor,50000,Primary,Farmer,54,Science Club,Low,Monthly,,,,
+55,2021055,Fatou Juma,Mother,Middle Class,800000,Secondary,Teacher,55,Art Club,Medium,Weekly,,,,
+56,2021056,Kofi Ogunleye,Father,Lower Upper Class,1800000,University,Engineer,56,Choir,High,Weekly,,,,
+57,2021057,Zuri Kamara,Mother,Upper Class,5000000,University,Business Executive,57,Robotics Club,Medium,Bi-weekly,,,,
+58,2021058,Sipho Khumalo,Father,Middle Class,900000,University,Accountant,58,Basketball Team,High,Weekly,,,,
+59,2021059,Chiamaka Eze,Mother,Poor,30000,Primary,Trader,59,Gardening Club,Low,Monthly,,,,
+60,2021060,Abdi Mohamed,Father,Lower Upper Class,1500000,Secondary,Mechanic,60,Coding Club,Medium,Weekly,,,,
+61,2021061,Zainab Moyo,Mother,Middle Class,700000,University,Pharmacist,61,Chess Club,High,Weekly,,,,
+62,2021062,Farai Chikanda,Father,Upper Class,4000000,University,Architect,62,Music Band,Medium,Weekly,,,,
+63,2021063,Nia Karanja,Mother,Poor,40000,Primary,Housekeeper,63,Environmental Club,Low,Monthly,,,,
+64,2021064,Thabo Mokoena,Father,Lower Upper Class,1600000,Secondary,IT Consultant,64,Yearbook Committee,Medium,Monthly,,,,
+65,2021065,Ify Obi,Mother,Middle Class,800000,University,Social Worker,65,Film Club,High,Monthly,,,,
+66,2021066,Juma Abdi,Father,Upper Class,5200000,University,CEO,66,Poetry Club,Medium,Monthly,,,,
+67,2021067,Talia Adetola,Mother,Lower Upper Class,1300000,Secondary,Teacher,67,Dance Club,High,Weekly,,,,
+68,2021068,Mosi Amani,Father,Poor,20000,Primary,Farmer,68,Community Service,Medium,Monthly,,,,
+69,2021069,Kanya Mthembu,Mother,Middle Class,900000,University,Nurse,69,History Club,Low,Monthly,,,,
+70,2021070,Dineo Nkosi,Father,Upper Class,4800000,University,Lawyer,70,Cooking Club,Medium,Bi-weekly,,,,
+71,2021071,Simi Olawale,Mother,Lower Upper Class,1600000,Secondary,Engineer,71,Photography Club,High,Weekly,,,,
+72,2021072,Kofi Boateng,Father,Poor,50000,Primary,Trader,72,Debate Club,Medium,Weekly,,,,
+73,2021073,Ayo Ogunjobi,Mother,Middle Class,750000,University,IT Specialist,73,Soccer Team,High,Weekly,,,,
+74,2021074,Thandiwe Moyo,Father,Upper Class,4300000,University,Business Executive,74,Drama Club,High,Weekly,,,,
+75,2021075,Chuka Ibe,Mother,Lower Upper Class,1200000,Secondary,Teacher,75,Science Club,Low,Monthly,,,,
+76,2021076,Sizwe Mkhize,Father,Poor,30000,Primary,Farmer,76,Art Club,Medium,Weekly,,,,
+77,2021077,Tolu Adebayo,Mother,Middle Class,900000,University,Nurse,77,Choir,High,Weekly,,,,
+78,2021078,Youssef El Amrani,Father,Upper Class,5000000,University,Lawyer,78,Robotics Club,Medium,Bi-weekly,,,,
+79,2021079,Dalia Abdelaziz,Mother,Lower Upper Class,1500000,Secondary,Mechanic,79,Basketball Team,High,Weekly,,,,
+80,2021080,Nuru Niyonzima,Father,Middle Class,800000,University,Accountant,80,Gardening Club,Low,Monthly,,,,
+81,2021081,Amani Mwanga,Mother,Poor,40000,Primary,Trader,81,Coding Club,Medium,Weekly,,,,
+82,2021082,Kato Nuwagaba,Father,Lower Upper Class,1600000,Secondary,IT Consultant,82,Chess Club,High,Weekly,,,,
+83,2021083,Nia Chikondi,Mother,Upper Class,4500000,University,CEO,83,Music Band,Medium,Weekly,,,,
+84,2021084,Abubakar Abdi,Father,Middle Class,900000,University,Social Worker,84,Environmental Club,Low,Monthly,,,,
+85,2021085,Zuri Mburu,Mother,Poor,20000,Primary,Housekeeper,85,Yearbook Committee,Medium,Monthly,,,,
+86,2021086,Tunde Ogunleye,Father,Lower Upper Class,1300000,Secondary,Engineer,86,Film Club,High,Monthly,,,,
+87,2021087,Fola Adesanya,Mother,Upper Class,4000000,University,Lawyer,87,Poetry Club,Medium,Monthly,,,,
+88,2021088,Nuru Khamisi,Father,Middle Class,900000,University,Nurse,88,Dance Club,High,Weekly,,,,
+89,2021089,Nia Okoro,Mother,Poor,30000,Primary,Trader,89,Community Service,Medium,Monthly,,,,
+90,2021090,Juma Abdi,Father,Lower Upper Class,1500000,Secondary,Mechanic,90,History Club,Low,Monthly,,,,
+91,2021091,Zuri Mumba,Mother,Upper Class,4800000,University,Business Executive,91,Cooking Club,Medium,Bi-weekly,,,,
+92,2021092,Kofi Owusu,Father,Middle Class,900000,University,Accountant,92,Photography Club,High,Weekly,,,,
+93,2021093,Amara Chukwuma,Mother,Poor,50000,Primary,Farmer,93,Debate Club,Medium,Weekly,,,,
+94,2021094,Thabo Mkhwanazi,Father,Lower Upper Class,1600000,Secondary,IT Consultant,94,Soccer Team,High,Weekly,,,,
+95,2021095,Zainab Abubakar,Mother,Upper Class,5200000,University,Lawyer,95,Drama Club,High,Weekly,,,,
+96,2021096,Sulaiman Dada,Father,Middle Class,800000,University,Pharmacist,96,Science Club,Low,Monthly,,,,
+97,2021097,Amira Khamisi,Mother,Lower Upper Class,1200000,Secondary,Teacher,97,Art Club,Medium,Weekly,,,,
+98,2021098,Tunde Olaniyan,Father,Upper Class,4000000,University,Business Executive,98,Choir,High,Weekly,,,,
+99,2021099,Aisha Arif,Mother,Middle Class,700000,University,Pharmacist,99,Robotics Club,Medium,Bi-weekly,,,,
+100,2021100,Juma Abdi,Father,Poor,30000,Primary,Trader,100,Basketball Team,High,Weekly,,,,

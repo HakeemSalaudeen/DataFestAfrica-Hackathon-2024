@@ -1,0 +1,101 @@
+parent_id,student_id,parent_name,relationship,income_level,income (monthly),education_level,occupation
+1,2021001,Emeka Okafor,Father,Upper Class,"?5,000,000",University,Engineer
+2,2021002,Amina Bello,Mother,Lower Upper Class,"?2,500,000",Secondary,Trader
+3,2021003,Thandi Molefe,Mother,Middle Class,"?800,000",University,Teacher
+4,2021004,Ibrahim Abubakar,Father,Lower Class,"?100,000",Primary,Farmer
+5,2021005,Akosua Mensah,Mother,Upper Class,"?6,000,000",University,Doctor
+6,2021006,Zainab Ahmed,Mother,Poor,"?40,000",Secondary,Vendor
+7,2021007,Kwame Nkrumah,Father,Middle Class,"?900,000",University,Engineer
+8,2021008,Amina Diop,Mother,Lower Upper Class,"?3,000,000",Secondary,Nurse
+9,2021009,Samuel Otieno,Father,Poor,"?70,000",Primary,Mechanic
+10,2021010,Lara Okeke,Mother,Upper Class,"?4,500,000",University,Lawyer
+11,2021011,Idris Yusuf,Father,Middle Class,"?1,000,000",University,Teacher
+12,2021012,Nia Mwangi,Mother,Lower Class,"?150,000",Secondary,Trader
+13,2021013,Ahmed Diallo,Father,Poor,"?90,000",Primary,Farmer
+14,2021014,Mariam Kamara,Mother,Lower Upper Class,"?2,000,000",Secondary,Trader
+15,2021015,Tunde Adeyemi,Father,Middle Class,"?1,200,000",University,Engineer
+16,2021016,Ifeoma Nwankwo,Mother,Upper Class,"?5,500,000",University,Doctor
+17,2021017,Malik Juma,Father,Poor,"?30,000",Primary,Farmer
+18,2021018,Laila Hassan,Mother,Lower Upper Class,"?3,500,000",Secondary,Nurse
+19,2021019,Dineo Khumalo,Father,Middle Class,"?1,000,000",University,Teacher
+20,2021020,Kofi Boateng,Mother,Poor,"?50,000",Primary,Mechanic
+21,2021021,Yara Abdi,Father,Upper Class,"?6,500,000",University,Lawyer
+22,2021022,Thabo Sibanda,Mother,Lower Class,"?120,000",Secondary,Trader
+23,2021023,Ayo Ogunleye,Father,Poor,"?80,000",Primary,Farmer
+24,2021024,Jamal Abubakar,Mother,Lower Upper Class,"?2,800,000",Secondary,Nurse
+25,2021025,Sade Olawale,Father,Middle Class,"?1,500,000",University,Engineer
+26,2021026,Zuri Mwenda,Mother,Upper Class,"?5,200,000",University,Doctor
+27,2021027,Tariq Ndung'u,Father,Poor,"?20,000",Primary,Farmer
+28,2021028,Fatou Sow,Mother,Lower Upper Class,"?3,200,000",Secondary,Trader
+29,2021029,Juma Muriuki,Father,Middle Class,"?1,000,000",University,Teacher
+30,2021030,Amina Juma,Mother,Poor,"?60,000",Primary,Mechanic
+31,2021031,Kwaku Agyeman,Father,Upper Class,"?6,000,000",University,Lawyer
+32,2021032,Lindiwe Mthembu,Mother,Lower Class,"?150,000",Secondary,Trader
+33,2021033,Sefakor Akoto,Father,Poor,"?90,000",Primary,Farmer
+34,2021034,Obinna Ibe,Mother,Middle Class,"?1,000,000",University,Engineer
+35,2021035,Zainab Bello,Father,Lower Upper Class,"?2,200,000",Secondary,Nurse
+36,2021036,Femi Ojo,Mother,Poor,"?30,000",Primary,Mechanic
+37,2021037,Muna Alhassan,Father,Upper Class,"?5,800,000",University,Doctor
+38,2021038,Ayo Ogunjobi,Mother,Lower Class,"?100,000",Secondary,Trader
+39,2021039,Chika Nwosu,Father,Middle Class,"?900,000",University,Teacher
+40,2021040,Imani Karanja,Mother,Poor,"?40,000",Primary,Farmer
+41,2021041,Kofi Asante,Father,Upper Class,"?7,000,000",University,Lawyer
+42,2021042,Zuri Sefu,Mother,Lower Upper Class,"?3,800,000",Secondary,Nurse
+43,2021043,Nia Chikondi,Father,Middle Class,"?1,500,000",University,Teacher
+44,2021044,Malik Chikwe,Mother,Poor,"?20,000",Primary,Mechanic
+45,2021045,Tunde Adebayo,Father,Upper Class,"?6,500,000",University,Doctor
+46,2021046,Ifeoma Okwudili,Mother,Lower Class,"?150,000",Secondary,Trader
+47,2021047,Ayo Akinyemi,Father,Poor,"?80,000",Primary,Farmer
+48,2021048,Fatima Khamis,Mother,Middle Class,"?1,000,000",University,Engineer
+49,2021049,Tumi Nkosi,Father,Upper Class,"?5,500,000",University,Lawyer
+50,2021050,Kanyinsola Adebayo,Mother,Poor,"?50,000",Primary,Farmer
+51,2021051,Chijioke Ibe,Father,Middle Class,"?700,000",University,IT Specialist
+52,2021052,Amani Mwanga,Mother,Lower Upper Class,"?1,200,000",Secondary,Nurse
+53,2021053,Thandi Ndlovu,Mother,Upper Class,"?4,500,000",University,Lawyer
+54,2021054,Emeka Nwosu,Father,Poor,"?50,000",Primary,Farmer
+55,2021055,Fatou Juma,Mother,Middle Class,"?800,000",Secondary,Teacher
+56,2021056,Kofi Ogunleye,Father,Lower Upper Class,"?1,800,000",University,Engineer
+57,2021057,Zuri Kamara,Mother,Upper Class,"?5,000,000",University,Business Executive
+58,2021058,Sipho Khumalo,Father,Middle Class,"?900,000",University,Accountant
+59,2021059,Chiamaka Eze,Mother,Poor,"?30,000",Primary,Trader
+60,2021060,Abdi Mohamed,Father,Lower Upper Class,"?1,500,000",Secondary,Mechanic
+61,2021061,Zainab Moyo,Mother,Middle Class,"?700,000",University,Pharmacist
+62,2021062,Farai Chikanda,Father,Upper Class,"?4,000,000",University,Architect
+63,2021063,Nia Karanja,Mother,Poor,"?40,000",Primary,Housekeeper
+64,2021064,Thabo Mokoena,Father,Lower Upper Class,"?1,600,000",Secondary,IT Consultant
+65,2021065,Ify Obi,Mother,Middle Class,"?800,000",University,Social Worker
+66,2021066,Juma Abdi,Father,Upper Class,"?5,200,000",University,CEO
+67,2021067,Talia Adetola,Mother,Lower Upper Class,"?1,300,000",Secondary,Teacher
+68,2021068,Mosi Amani,Father,Poor,"?20,000",Primary,Farmer
+69,2021069,Kanya Mthembu,Mother,Middle Class,"?900,000",University,Nurse
+70,2021070,Dineo Nkosi,Father,Upper Class,"?4,800,000",University,Lawyer
+71,2021071,Simi Olawale,Mother,Lower Upper Class,"?1,600,000",Secondary,Engineer
+72,2021072,Kofi Boateng,Father,Poor,"?50,000",Primary,Trader
+73,2021073,Ayo Ogunjobi,Mother,Middle Class,"?750,000",University,IT Specialist
+74,2021074,Thandiwe Moyo,Father,Upper Class,"?4,300,000",University,Business Executive
+75,2021075,Chuka Ibe,Mother,Lower Upper Class,"?1,200,000",Secondary,Teacher
+76,2021076,Sizwe Mkhize,Father,Poor,"?30,000",Primary,Farmer
+77,2021077,Tolu Adebayo,Mother,Middle Class,"?900,000",University,Nurse
+78,2021078,Youssef El Amrani,Father,Upper Class,"?5,000,000",University,Lawyer
+79,2021079,Dalia Abdelaziz,Mother,Lower Upper Class,"?1,500,000",Secondary,Mechanic
+80,2021080,Nuru Niyonzima,Father,Middle Class,"?800,000",University,Accountant
+81,2021081,Amani Mwanga,Mother,Poor,"?40,000",Primary,Trader
+82,2021082,Kato Nuwagaba,Father,Lower Upper Class,"?1,600,000",Secondary,IT Consultant
+83,2021083,Nia Chikondi,Mother,Upper Class,"?4,500,000",University,CEO
+84,2021084,Abubakar Abdi,Father,Middle Class,"?900,000",University,Social Worker
+85,2021085,Zuri Mburu,Mother,Poor,"?20,000",Primary,Housekeeper
+86,2021086,Tunde Ogunleye,Father,Lower Upper Class,"?1,300,000",Secondary,Engineer
+87,2021087,Fola Adesanya,Mother,Upper Class,"?4,000,000",University,Lawyer
+88,2021088,Nuru Khamisi,Father,Middle Class,"?900,000",University,Nurse
+89,2021089,Nia Okoro,Mother,Poor,"?30,000",Primary,Trader
+90,2021090,Juma Abdi,Father,Lower Upper Class,"?1,500,000",Secondary,Mechanic
+91,2021091,Zuri Mumba,Mother,Upper Class,"?4,800,000",University,Business Executive
+92,2021092,Kofi Owusu,Father,Middle Class,"?900,000",University,Accountant
+93,2021093,Amara Chukwuma,Mother,Poor,"?50,000",Primary,Farmer
+94,2021094,Thabo Mkhwanazi,Father,Lower Upper Class,"?1,600,000",Secondary,IT Consultant
+95,2021095,Zainab Abubakar,Mother,Upper Class,"?5,200,000",University,Lawyer
+96,2021096,Sulaiman Dada,Father,Middle Class,"?800,000",University,Pharmacist
+97,2021097,Amira Khamisi,Mother,Lower Upper Class,"?1,200,000",Secondary,Teacher
+98,2021098,Tunde Olaniyan,Father,Upper Class,"?4,000,000",University,Business Executive
+99,2021099,Aisha Arif,Mother,Middle Class,"?700,000",University,Pharmacist
+100,2021100,Juma Abdi,Father,Poor,"?30,000",Primary,Trader

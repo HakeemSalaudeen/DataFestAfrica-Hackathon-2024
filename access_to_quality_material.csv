@@ -1,0 +1,51 @@
+material_id,student_id,material_type,access_level,frequency_of_use
+1,2021001,Textbook,High,Daily
+2,2021002,Online Resource,Medium,Weekly
+3,2021003,Library Access,Low,Monthly
+4,2021004,Textbook,High,Daily
+5,2021005,Online Resource,Medium,Weekly
+6,2021006,Library Access,Low,Monthly
+7,2021007,Textbook,High,Daily
+8,2021008,Online Resource,Medium,Weekly
+9,2021009,Library Access,Low,Monthly
+10,2021010,Textbook,High,Daily
+11,2021011,Online Resource,Medium,Weekly
+12,2021012,Library Access,Low,Monthly
+13,2021013,Textbook,High,Daily
+14,2021014,Online Resource,Medium,Weekly
+15,2021015,Library Access,Low,Monthly
+16,2021016,Textbook,High,Daily
+17,2021017,Online Resource,Medium,Weekly
+18,2021018,Library Access,Low,Monthly
+19,2021019,Textbook,High,Daily
+20,2021020,Online Resource,Medium,Weekly
+21,2021021,Library Access,Low,Monthly
+22,2021022,Textbook,High,Daily
+23,2021022,Textbook,High,Daily
+24,2021023,Online Resource,Medium,Weekly
+25,2021024,Library Access,Low,Monthly
+26,2021025,Textbook,High,Daily
+27,2021026,Online Resource,Medium,Weekly
+28,2021027,Library Access,Low,Monthly
+29,2021028,Textbook,High,Daily
+30,2021029,Online Resource,Medium,Weekly
+31,2021030,Library Access,Low,Monthly
+32,2021031,Textbook,High,Daily
+33,2021032,Online Resource,Medium,Weekly
+34,2021033,Library Access,Low,Monthly
+35,2021034,Textbook,High,Daily
+36,2021035,Online Resource,Medium,Weekly
+37,2021036,Library Access,Low,Monthly
+38,2021037,Textbook,High,Daily
+39,2021038,Online Resource,Medium,Weekly
+40,2021039,Library Access,Low,Monthly
+41,2021040,Textbook,High,Daily
+42,2021041,Online Resource,Medium,Weekly
+43,2021042,Library Access,Low,Monthly
+44,2021043,Textbook,High,Daily
+45,2021044,Online Resource,Medium,Weekly
+46,2021045,Library Access,Low,Monthly
+47,2021046,Textbook,High,Daily
+48,2021047,Online Resource,Medium,Weekly
+49,2021048,Library Access,Low,Monthly
+50,2021049,Textbook,High,Daily
